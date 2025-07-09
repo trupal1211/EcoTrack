@@ -42,9 +42,6 @@ EcoTrack is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) web appli
 - Backend: Render  
 - Database: MongoDB Atlas
 
-## 📸 Screenshots
-
-> _Include screenshots or a demo video link here to showcase the app in action._
 
 ## 🧑‍💻 Getting Started
 
